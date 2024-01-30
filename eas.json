@@ -1,0 +1,15 @@
+{
+  "cli": {
+    "version": ">= 0.57.0"
+  },
+  "build": {
+    "android": {
+      "developmentClient": false,
+      "channel": "jscrambler",
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      }
+    }
+  }
+}
